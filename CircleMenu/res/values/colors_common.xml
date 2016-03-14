@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 白色 -->
+    <color name="white">#ffffff</color>
+    <!-- 黑色 -->
+    <color name="black">#000000</color>
+
+    <!-- 背景 -->
+    <color name="backgroudcolor">#f4f4f4</color>
+
+    <!-- 全局背景颜色 蓝色 -->
+    <color name="global_background_color">#00a0e9</color>
+
+    <!-- YG      Tab切换选中文字的颜色 gc2 -->
+    <color name="tab_select_color_pre">#5297ef</color>
+    <!-- YG     Tab切换未选中文字的颜色 gc3 -->
+    <color name="tab_select_color_nor">#9e9e9e</color>
+    <!-- YG     Tab背景颜色 -->
+    <color name="tab_bg_color">#ffffff</color>
+    <!-- YG     Tab底部颜色 -->
+    <color name="tab_bottom_line_color">#5297ef</color>
+    <!-- YG     Tab底部分割线颜色 -->
+    <color name="tab_line_color">#dadada</color>
+    <!-- YG     Listview分隔部分颜色 -->
+    <color name="list_seperator_color">#d0d0d0</color>
+    <!-- YG     listview中字体颜色 -->
+    <color name="list_text_big_color">#060606</color>
+
+    <!-- YG     listview item底色 -->
+    <color name="list_background_color">#e4e4e4</color>
+    <color name="list_blank_background_color">#ececec</color>
+    <color name="grid_line_color">#e4e4e4</color>
+
+    <!-- YG     进度条颜色 -->
+    <color name="unfinished_stroke_color">#ececec</color>
+    <color name="finished_stroke_color">#ff7e16</color>
+    <color name="list_text_color">#6c6c6c</color>
+    <color name="list_text_digital_color">#ff8a50</color>
+    <color name="detail_background_color">#ededed</color>
+    <color name="detail_background_line_color">#c5c5c5</color>
+    <color name="detail_text_color">#6c6c6c</color>
+    <color name="detail_intro_text_color">#0c0b0b</color>
+    <color name="detail_sina_text_color">#a9a9a9</color>
+
+    <!-- 颜色值 -->
+    <color name="global_color1">#ffffff</color>
+    <color name="global_color5">#c3c7c9</color>
+
+    <!-- 通用输入框输入项内容颜色 -->
+    <color name="common_input_value_text_color">#191919</color>
+    <!-- 通用输入框输入项提示颜色 -->
+    <color name="common_input_hint_text_color">#c5c5c5</color>
+    <!-- 通用输入框输入项线条颜色 -->
+    <color name="common_input_line_color">#9d9d9d</color>
+
+    <!-- 登录页面注册按钮常态 -->
+    <color name="login_page_regester_text_color_nor">#6981ad</color>
+    <!-- 登录页面注册按钮点击 -->
+    <color name="login_page_regester_text_color_pre">#e86f39</color>
+    <!-- 登录页面登录按钮点击 -->
+    <color name="login_page_login_btn_color">#ffffff</color>
+    <color name="common_sproto_text1_color">#555555</color>
+    <color name="common_sproto_text2_color">#0058e9</color>
+    <color name="login_page_register_btn_color">#555555</color>
+    <color name="login_page_internet_site_color">#c5c5c5</color>
+
+    <!-- shadowColor -->
+    <color name="common_shadow_color">#66000000</color>
+
+    <!-- 首页背景颜色 -->
+    <color name="home_page_bg_color">#f5f5f5</color>
+    <color name="home_page_text_color">#5d5d5d</color>
+    <color name="home_page_calendar_text_color">#5d5d5d</color>
+    <color name="home_page_income_digit_color">#ff7e16</color>
+    <color name="global_text_color1">#191919</color>
+    <color name="global_text_color2">#7d7d7d</color>
+    <color name="global_text_color3">#f7234b</color>
+    <color name="global_text_color4">#f4f4f4</color>
+    <color name="global_text_color5">#5d5d5d</color>
+    <color name="global_text_color6">#c5c5c5</color>
+    <color name="global_text_color7">#ff7e16</color>
+
+    <!-- 我的账户页背景颜色 -->
+    <color name="account_page_tab_selected_color">#00a0e9</color>
+    <color name="account_page_tab_unselected_color">#5d5d5d</color>
+    <color name="account_global_text_color">#ff7e16</color>
+    <color name="my_finance_tab_recharge_text_color">#3cb113</color>
+    <color name="my_finance_tab_withdraw_text_color">#00a0e9</color>
+    <color name="recharge_selected_color">#f4f4f4</color>
+    <color name="debit_type_blue_color">#00a0e9</color>
+    <color name="debit_type_yellow_color">#f9b74e</color>
+    <color name="debit_type_red_color">#fd5253</color>
+    <color name="debit_global_text_color1">#5d5d5d</color>
+    <color name="debit_global_text_color2">#7d7d7d</color>
+    <color name="grid_item_selected_color">#f4f4f4</color>
+    <color name="wei_year_interest_color">#ff7e16</color>
+    <color name="wei_global_text_color1">#5d5d5d</color>
+    <color name="finance_record_amount_color">#ea4308</color>
+    <color name="finance_record_date_color">#5c5c5c</color>
+    <color name="bid_list_interest_color">#ff6803</color>
+    <color name="guesture_tip_text_color">#c8eeff</color>
+    <color name="grid_password_line_color">#dedede</color>
+    <color name="grid_password_out_line_color">#c5c5c5</color>
+    <color name="red">#ff5654</color>
+    <color name="transparent_red">#ddff5654</color>
+    <color name="global_red_text_color">#e33709</color>
+    <color name="zhaiquan_color">#6fcffb</color>
+    <color name="gray_color">#6fcffb</color>
+    <color name="listview_bg_color">#cecece</color>
+    <color name="transparent">#00000000</color>
+    <color name="pop_top_color">#66000000</color>
+    <color name="mycount_finance_financial_assets_yellow">#fcf367</color>
+    <color name="mycount_finance_expected_return_green">#bfec6b</color>
+    <color name="mycount_quit_blue">#0090d2</color>
+    <color name="user_account_piggy_bank_color">#89d7ef</color>
+    <color name="user_account_rechange_bg_color">#65b4e4</color>
+    <color name="guide_common_blue">#469df6</color>
+    <color name="guide_press_blue">#338ce7</color>
+    <color name="no_data_refresh_color">#55b1f8</color>
+    <color name="borrow_nper_orange_color">#f99830</color>
+    <color name="borrow_application_people_gray">#a4a4a4</color>
+    <color name="borrow_delect_red_normal">#e95b42</color>
+    <color name="borrow_delect_red_press">#dd4531</color>
+    <color name="light_gray">#99a4b7</color>
+    <color name="deep_gray">#394257</color>
+    <color name="border_gray">#d9dfe5</color>
+    <color name="btn_gray">#d1d1d1</color>
+    <color name="glass_gall">#c2ebef</color>
+    <color name="light_blue">#87d0f2</color>
+    <color name="borrow_account_detail_gray">#86cfef</color>
+    <color name="orange">#FF9000</color>
+    <color name="orange_pressed">#dd7d00</color>
+    <color name="gray">#5b5f62</color>
+    <color name="bg_gray">#efefef</color>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 背景区 -->
+    <!--YG      头像的边框 c1-->
+    <color name="detail_aratar_bg">#9ec9ff</color>
+    
+    <!--YG    退出，登录，下一步按钮按下  -->
+    <color name="commit_next_btn_shap_pre">#0090d2</color>
+    <!--YG     退出，登录，下一步按钮常态  -->
+    <color name="commit_next_btn_shap_nor">#00a0e9</color>
+    
+    <!--YG    取消按钮按下  -->
+    <color name="cancel_btn_shap_pre">#e4e4e4</color>
+    <!--YG    取消按钮常态  -->
+    <color name="cancel_btn_shap_nor">#ffffff</color>
+    
+</resources>

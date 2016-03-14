@@ -1,0 +1,145 @@
+<!-- 全局值配置文件 -->
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+	<!-- 所有详细页面同主屏幕左边距 -->
+    <dimen name="global_page_paddingleft">10dp</dimen>
+    
+    <dimen name="global_top_height">48dp</dimen>
+    
+    
+    <!-- 图片icon的大小 -->
+    <dimen name="global_icon1">75dp</dimen>
+    
+    
+    <!-- 控件之间间隔 -->
+    <dimen name="global_padding1">17dp</dimen>
+    <dimen name="global_padding2">29dp</dimen>
+    <dimen name="global_padding3">35dp</dimen>
+    <dimen name="global_padding4">7dp</dimen>
+    <dimen name="global_padding5">30dp</dimen>
+    <dimen name="global_padding6">14dp</dimen>
+    <dimen name="global_padding7">23dp</dimen>
+    <dimen name="global_padding8">13dp</dimen>
+    <dimen name="global_padding9">8dp</dimen>
+    <dimen name="global_padding10">33dp</dimen>
+    <dimen name="global_padding11">28dp</dimen>
+    <dimen name="global_padding12">15dp</dimen>
+    <dimen name="global_padding13">34dp</dimen>
+    
+    <dimen name="login_padding_top">16dp</dimen>
+    <dimen name="login_padding_top2">10dp</dimen>
+    <dimen name="register_padding_top">15dp</dimen>
+    <dimen name="register_padding_top2">10dp</dimen>
+    
+    <dimen name="home_page_padding">10dp</dimen>
+    <dimen name="account_level_icon_padding">24dp</dimen>
+    <dimen name="account_name_padding_top">36dp</dimen>
+    <dimen name="account_name_padding_left">25dp</dimen>
+    <dimen name="account_page_text_padding_top">10dp</dimen>
+    <dimen name="account_page_text_padding_left">5dp</dimen>
+    <dimen name="account_page_image_padding_left">20dp</dimen>
+    
+    <dimen name="debit_list_item_padding_top">10dp</dimen>
+    <dimen name="debit_list_item_padding_left">10dp</dimen>
+    <dimen name="debit_list_item_padding_right">10dp</dimen>
+    <dimen name="debit_list_item_padding_bottom">9dp</dimen>
+    
+    <dimen name="account_page_tab_padding_left">30dp</dimen>
+    
+    <dimen name="internet_site_margin_bottom">35dp</dimen>
+    
+    
+    <dimen name="wei_page_padding">43dp</dimen>
+    <dimen name="wei_detail_padding_left1">5dp</dimen>
+    <dimen name="wei_detail_padding_left2">15dp</dimen>
+    <dimen name="wei_detail_padding_left3">8dp</dimen>
+    <dimen name="wei_detail_padding_right">15dp</dimen>
+    
+    <dimen name="finance_detail_item_height">40dp</dimen>
+    
+    <dimen name="company_intro_item_height">45dp</dimen>
+    
+    <dimen name="company_padding_top">18dp</dimen>
+    <dimen name="company_text_padding_top">12dp</dimen>
+    <dimen name="company_parters_padding_top">30dp</dimen>
+    
+    <dimen name="bid_detail_padding_left">20dp</dimen>
+    <dimen name="bid_detail_global_padding_left">15dp</dimen>
+    <dimen name="bid_detail_text_padding_left">5dp</dimen>
+    <dimen name="bid_detail_big_text_padding_left">8dp</dimen>
+    
+    <dimen name="security_center_item_height">50dp</dimen>
+    <dimen name="add_bank_card_item_height">50dp</dimen>
+    
+    <dimen name="guesture_pwd_tip_height">22dp</dimen>
+    
+    
+    <dimen name="global_clean_size">16dp</dimen>
+    
+    <dimen name="global_bottom_height">55dp</dimen>
+    
+    <dimen name="global_padding_horizontal">15dp</dimen>
+    
+    <!-- 文字大小 -->
+    
+    <dimen name="text_large">17sp</dimen>
+    <dimen name="finance_name_text">14sp</dimen>
+    <dimen name="security_sina_text">10sp</dimen>
+    <dimen name="internet_site_text_size">11sp</dimen>
+    
+    <dimen name="common_input_text_size">16sp</dimen>
+    <dimen name="common_next_btn_size">16sp</dimen>
+    <dimen name="common_text_view_size">15sp</dimen>
+    
+    <dimen name="home_page_calendar_size">10sp</dimen>
+    <dimen name="home_page_day_income_digit_size">30sp</dimen>
+    <dimen name="home_page_day_income_size">12sp</dimen>
+    <dimen name="home_page_sum_income_digit_size">18sp</dimen>
+    <dimen name="home_page_sum_income_size">12sp</dimen>
+    <dimen name="home_page_turnplate_text_size">13sp</dimen>
+    
+    <dimen name="account_page_name_text_size">16sp</dimen>
+    <dimen name="account_page_wei_money_size">13sp</dimen>
+    <dimen name="account_page_point_size">13sp</dimen>
+    
+    <dimen name="account_page_tab_text_size">15sp</dimen>
+    <dimen name="savings_digit_size">21sp</dimen>
+    <dimen name="finance_tab_text_size1">13sp</dimen>
+    <dimen name="finance_tab_text_size2">12sp</dimen>
+    <dimen name="finance_tab_text_size3">16sp</dimen>
+    
+    <dimen name="debit_tab_text_size1">14sp</dimen>
+    <dimen name="debit_tab_text_size2">18sp</dimen>
+    <dimen name="debit_tab_text_size3">13sp</dimen>
+    <dimen name="debit_tab_text_size4">12sp</dimen>
+    <dimen name="debit_type_size">11sp</dimen>
+    
+    <dimen name="wei_year_interest_digit_size">24sp</dimen>
+    <dimen name="wei_year_interest_unit_size">12sp</dimen>
+    <dimen name="wei_year_interest_text_size">13sp</dimen>
+    <dimen name="wei_detail_year_interest_digit_size">40sp</dimen>
+    <dimen name="wei_detail_year_interest_unit_size">18sp</dimen>
+    
+    <dimen name="bid_list_interest_size">28sp</dimen>
+    <dimen name="bid_detail_interest_size">44sp</dimen>
+    
+    
+    <!-- listview中文字大小 -->
+    <dimen name="global_font_size1">12sp</dimen>
+    <dimen name="global_font_size2">15sp</dimen>
+    <dimen name="global_font_size3">14sp</dimen>
+    <dimen name="global_font_size4">13sp</dimen>
+    <dimen name="global_font_size5">16sp</dimen>
+    <dimen name="global_font_size6">11sp</dimen>
+    <dimen name="global_font_size7">9sp</dimen>
+    <dimen name="global_font_size8">10sp</dimen>
+    <dimen name="global_font_size9">17sp</dimen>
+    
+    
+
+    
+</resources>

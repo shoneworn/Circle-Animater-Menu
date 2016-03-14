@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 背景区 -->
+    <!-- 列表与item相同的背景，例如发现 -->
+    <color name="list_second_bg">#ffffff</color>
+    
+    
+    
+    
+</resources>
